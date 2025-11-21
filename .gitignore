@@ -6,6 +6,9 @@ vendor
 .idea
 *.iml
 **/*.received.*
-venv
+.venv/
+venv/
+.clj-kondo/
+.lsp/
 **/DS_Store/*
 **/.DS_Store/*
