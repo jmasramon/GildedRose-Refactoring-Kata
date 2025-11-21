@@ -1,2 +1,14 @@
-.idea/workspace.xml
-*.pyc
+bin
+obj
+*.sln.DotSettings.user
+.vs
+vendor
+.idea
+*.iml
+**/*.received.*
+.venv/
+venv/
+.clj-kondo/
+.lsp/
+**/DS_Store/*
+**/.DS_Store/*
